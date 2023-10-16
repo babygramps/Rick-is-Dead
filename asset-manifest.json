@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rick-is-dead/static/css/main.dc358e2b.css",
-    "main.js": "/rick-is-dead/static/js/main.b3ec7821.js",
-    "static/js/787.faca7ffa.chunk.js": "/rick-is-dead/static/js/787.faca7ffa.chunk.js",
-    "index.html": "/rick-is-dead/index.html",
-    "main.dc358e2b.css.map": "/rick-is-dead/static/css/main.dc358e2b.css.map",
-    "main.b3ec7821.js.map": "/rick-is-dead/static/js/main.b3ec7821.js.map",
-    "787.faca7ffa.chunk.js.map": "/rick-is-dead/static/js/787.faca7ffa.chunk.js.map"
+    "main.css": "/Rick-is-Dead/static/css/main.dc358e2b.css",
+    "main.js": "/Rick-is-Dead/static/js/main.92b7b35f.js",
+    "static/js/787.faca7ffa.chunk.js": "/Rick-is-Dead/static/js/787.faca7ffa.chunk.js",
+    "index.html": "/Rick-is-Dead/index.html",
+    "main.dc358e2b.css.map": "/Rick-is-Dead/static/css/main.dc358e2b.css.map",
+    "main.92b7b35f.js.map": "/Rick-is-Dead/static/js/main.92b7b35f.js.map",
+    "787.faca7ffa.chunk.js.map": "/Rick-is-Dead/static/js/787.faca7ffa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc358e2b.css",
-    "static/js/main.b3ec7821.js"
+    "static/js/main.92b7b35f.js"
   ]
 }
