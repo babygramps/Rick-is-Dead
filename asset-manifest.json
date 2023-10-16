@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rick-is-dead/static/css/main.dc358e2b.css",
+    "main.js": "/rick-is-dead/static/js/main.b3ec7821.js",
+    "static/js/787.faca7ffa.chunk.js": "/rick-is-dead/static/js/787.faca7ffa.chunk.js",
+    "index.html": "/rick-is-dead/index.html",
+    "main.dc358e2b.css.map": "/rick-is-dead/static/css/main.dc358e2b.css.map",
+    "main.b3ec7821.js.map": "/rick-is-dead/static/js/main.b3ec7821.js.map",
+    "787.faca7ffa.chunk.js.map": "/rick-is-dead/static/js/787.faca7ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc358e2b.css",
+    "static/js/main.b3ec7821.js"
+  ]
+}
